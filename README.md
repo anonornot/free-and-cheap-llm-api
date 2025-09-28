@@ -1,7 +1,7 @@
 ## Free LLM APIs
 Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Requirement/Cons | Guide |
 :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | 
-[Google Vertex](https://cloud.google.com/vertex-ai) | Provider | Sign up | Free 300$ for 3 months | Gemini models | — | Phone number/Billing information required | Supported on ST [Guide ↓](#how-to-use-custom-apis) 
+[Google Vertex](https://cloud.google.com/vertex-ai) | Provider | Sign up | Free 300$ for 3 months | Gemini models | — | Phone number/Billing information required | Supported on ST 
 [AWS Bedrock](https://aws.amazon.com/) | Provider | Sign up | Free 200$ for 6 months | Claude models | — | Phone number/Billing information required | [Rentry](https://rentry.co/oo66akom) 
 [Parasail](https://www.parasail.io/) | Provider | Sign up | Free 10$ | [DS models, Kimi K2, GLM 4.5](https://www.saas.parasail.io/pricing) | — | — | No support on ST [Guide ↓](#how-to-use-custom-apis) 
 [Sambanova](https://sambanova.ai/) | Provider | Sign up | Free 5$ | [DS and smaller models](https://docs.sambanova.ai/docs/en/models/sambacloud-models) | 60 RPD | Phone number required | No support on ST [Guide ↓](#how-to-use-custom-apis) 
