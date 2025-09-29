@@ -7,7 +7,8 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Requirement/
 [AtlasCloud](https://www.atlascloud.ai/) | Provider | Sign up | Free 0.1$ (daily) | [Most RP models](https://www.atlascloud.ai/models/list) | —  | — | [Guide ↓](#how-to-use-custom-apis) 
 [Groq](https://groq.com/) | Provider | Sign up | Free Tier | [Kimi K2 and smaller models](https://console.groq.com/docs/rate-limits#rate-limits) | 10K TPM | Super low rate limits | [Guide ↓](#how-to-use-custom-apis) 
 [NVIDIA NIM](https://build.nvidia.com/explore/discover) | Provider | Sign up | Free Tier | [DS models, Kimi K2, Qwen 3](https://build.nvidia.com/search/models?q=chat+OR+text-to-text) | 40RPM (?) | Phone number required/Queue system | [Reddit](https://reddit.com/r/SillyTavernAI/comments/1lxivmv/nvidia_nim_free_deepseek_r10528_and_more/)
-[LLM7](https://llm7.io/) | Provider | Sign up | Free Tier | [DS models, GPT models, Qwen 3](https://api.llm7.io/v1/models) | 20 RPS & 150 RPM | Quantized (?) | [Guide ↓](#how-to-use-custom-apis)
+[LLM7](https://llm7.io/) | Provider | No sign up | Free Tier | [DS models, GPT models, Qwen 3](https://api.llm7.io/v1/models) | 1 RPS & 45 RPM | Quantized (?) | [Guide ↓](#how-to-use-custom-apis)
+[ai.is-a.dev](https://ai.is-a.dev) | Provider | No sign up | Free Tier | [DS models and LLama models](https://ai.is-a.dev/models) | — | Quantized (?) | No support on ST [Guide ↓](#how-to-use-custom-apis)
 [Akash](https://chatapi.akash.network) | Provider | Sign up | Free Tier | [DS V3.1, gpt-oss-120b, Qwen 3](https://chatapi.akash.network/documentation) | — | — | [Guide ↓](#how-to-use-custom-apis) 
 [Parasail](https://www.parasail.io/) | Provider | Application | Free 10$ | [DS models, Kimi K2, GLM 4.5](https://www.saas.parasail.io/pricing) | — | Billing information required | No support on ST [Guide ↓](#how-to-use-custom-apis) 
 [Routeway](https://routeway.ai/) | Gateway | Waitlist | Free tier | [R1T2, Kimi K2, GLM 4.5, GPT-4.1](https://routeway.ai/models) | 20 RPM & 200 RPD | Early development | [Guide ↓](#how-to-use-custom-apis) 
@@ -47,6 +48,7 @@ Platform | Base URL |
 | Groq  | `https://api.groq.com/openai/v1`  |
 | NVIDIA  | `https://integrate.api.nvidia.com/v1` |
 | LLM7  | `https://api.llm7.io/v1` |
+| ai.is-a.dev  | `https://ai.is-a.dev` |
 | Akash | `https://chatapi.akash.network/api/v1` |
 | Parasail | `https://api.saas.parasail.io/v1` | 
 | LLMGateway  | `https://api.llmgateway.io/v1` |
