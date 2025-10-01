@@ -14,7 +14,7 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Requirement/
 [Nebulablock](https://www.nebulablock.com/) | Provider | Sign up | Free Tier | [DS and smaller models](https://console.nebulablock.com/serverless) | — | Credit card | [Guide↓](#how-to-use-custom-apis) 
 [NavyAI](https://api.navy/) | Provider | Sign up | Free Tier | [Most RP models](https://api.navy/#models) | 25 RPM & 500K TPM | Sign in with Discord | [Guide↓](#how-to-use-custom-apis) 
 [Routeway](https://routeway.ai/) | Gateway | Waitlist & Ticket on DC | Free tier | [DS, GLM 4.5 and smaller models](https://routeway.ai/models) | 20 RPM & 200 RPD | Early development | [Guide↓](#how-to-use-custom-apis) 
-[LLM7](https://llm7.io/) | Provider | No sign up | Free Tier | [DS, GPT-5 and smaller models](https://api.llm7.io/v1/models) | 20 RPS & 150 RPM | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
+[LLM7](https://llm7.io/) | Provider | No sign up | Free Tier | [DS, GPT-5 and smaller models](https://api.llm7.io/v1/models) | 1 RPS & 45 RPM | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
 [ai.is-a.dev](https://ai.is-a.dev) | Provider | No sign up | Free Tier | [DS and LLama models](https://ai.is-a.dev/models) | — | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
 
 
