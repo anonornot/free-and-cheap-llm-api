@@ -60,7 +60,7 @@ Platform | Base URL |
 | NVIDIA NIM | `https://integrate.api.nvidia.com/v1` |
 | Akash | `https://chatapi.akash.network/api/v1` |
 | Nebulablock | `https://api.nebulablock.com/api/v1` | 
-| NavyAI | `https://api.navy/v1/chat/completions` |  
+| NavyAI | `https://api.navy/v1` |  
 | Routeway  | `https://api.routeway.ai/v1` |
 | LLM7  | `https://api.llm7.io/v1` |
 | ai.is-a.dev  | `https://ai.is-a.dev` |
