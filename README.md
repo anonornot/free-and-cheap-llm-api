@@ -13,7 +13,6 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Requirement/
 [Akash](https://chatapi.akash.network) | Provider | Sign up | Free Tier | [DS V3.1, gpt-oss-120b, Qwen 3](https://chatapi.akash.network/documentation) | — | — | [Guide↓](#how-to-use-custom-apis) 
 [Nebulablock](https://www.nebulablock.com/) | Provider | Sign up | Free Tier | [DS and smaller models](https://console.nebulablock.com/serverless) | — | Credit card | [Guide↓](#how-to-use-custom-apis) 
 [NavyAI](https://api.navy/) | Provider | Sign up | Free Tier | [Most RP models](https://api.navy/#models) | 25 RPM & 500K TPD | Sign in with Discord | [Guide↓](#how-to-use-custom-apis) 
-[Routeway](https://routeway.ai/) | Gateway | Waitlist & Ticket on DC | Free tier | [DS, GLM 4.5 and smaller models](https://routeway.ai/models) | 20 RPM & 200 RPD | Early development | [Guide↓](#how-to-use-custom-apis) 
 [LLM7](https://llm7.io/) | Provider | No sign up | Free Tier | [DS, GPT-5 and smaller models](https://api.llm7.io/v1/models) | 1 RPS & 45 RPM | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
 [ai.is-a.dev](https://ai.is-a.dev) | Provider | No sign up | Free Tier | [DS and LLama models](https://ai.is-a.dev/models) | — | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
 
@@ -61,7 +60,6 @@ Platform | Base URL |
 | Akash | `https://chatapi.akash.network/api/v1` |
 | Nebulablock | `https://api.nebulablock.com/api/v1` | 
 | NavyAI | `https://api.navy/v1` |  
-| Routeway  | `https://api.routeway.ai/v1` |
 | LLM7  | `https://api.llm7.io/v1` |
 | ai.is-a.dev  | `https://ai.is-a.dev` |
 | Chutes  | `https://api.chutes.ai/v1`  |
