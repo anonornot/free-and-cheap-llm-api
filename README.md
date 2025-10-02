@@ -26,10 +26,15 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Cons | Guide
 [LLMGateway](https://llmgateway.io/) | Gateway | One time deposit | Deposit 5$ once | [R1T2, Kimi K2, GLM 4.5, GPT-4.1](https://llmgateway.io/models) | 20 RPM | Some providers are in early development | [Guide↓](#how-to-use-custom-apis) 
 
 *DS: Deepseek models (R1 0528, V3 0324 and V3.1)*
+
 *GPT: Mostly GPT-5, gpt-oss and 4o mini models* 
+
 *Claude: Sonnet 3.5/3.7/4/4.5 and Opus 4/4.1 models* 
+
 *Gemini: Gemini 2.0/2.5 Pro and Flash models* 
+
 *Smaller models: LLama, Mistral and quantized open-source models* 
+
 *?: "not sure"*
 
 ___
