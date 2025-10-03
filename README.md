@@ -3,18 +3,18 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Requirement/
 :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 [Google Vertex](https://cloud.google.com/vertex-ai) | Provider | Sign up | Free 300$ for 3 months | Gemini | — | Phone number - Credit card - Billing information | —
 [AWS Bedrock](https://aws.amazon.com/) | Provider | Sign up | Free 200$ for 6 months | Claude | — | Phone number - Credit card - Billing information | [Rentry](https://rentry.co/oo66akom)
-[Sambanova](https://sambanova.ai/) | Provider | Sign up | Free 5$ | [DS and smaller models](https://docs.sambanova.ai/docs/en/models/sambacloud-models) | 60 RPD | Phone number | [Guide↓](#how-to-use-custom-apis)
 [Parasail](https://www.parasail.io/) | Provider | Application | Free 10$ | [DS, Kimi K2, GLM 4.5](https://www.saas.parasail.io/pricing) | — | Billing information | [Guide↓](#how-to-use-custom-apis) 
+[Sambanova](https://sambanova.ai/) | Provider | Sign up | Free 5$ | [DS and smaller models](https://docs.sambanova.ai/docs/en/models/sambacloud-models) | 60 RPD | Phone number | [Guide↓](#how-to-use-custom-apis)
 [Vercel](https://vercel.com) | Gateway | Sign up | Free 5$ | [Most RP models (except Opus)](https://vercel.com/ai-gateway/models) | — | Credit card | [Guide↓](#how-to-use-custom-apis) 
 [AtlasCloud](https://chatapi.akash.network) | Provider | Sign up | Free 0.1$ (daily) | [Most RP models](https://www.atlascloud.ai/models/list) | —  | — | [Guide↓](#how-to-use-custom-apis) 
 [Electronhub](https://www.electronhub.ai/) | Provider | Sign up | Free tier + Free 0.25$ (daily)| [DS, GPT, Kimi K2, Qwen 3 and smaller models](https://api.navy/#models) | 7 RPM | — | [Guide↓](#how-to-use-custom-apis) 
 [Groq](https://groq.com/) | Provider | Sign up | Free Tier | [Kimi K2 and smaller models](https://console.groq.com/docs/rate-limits#rate-limits) | 10K TPM | Super low rate limits | [Guide↓](#how-to-use-custom-apis) 
 [NVIDIA NIM](https://build.nvidia.com/explore/discover) | Provider | Sign up | Free Tier | [DS, Kimi K2 and smaller models](https://build.nvidia.com/search/models?q=chat+OR+text-to-text) | 40RPM (?) | Phone number - Queue system | [Reddit](https://reddit.com/r/SillyTavernAI/comments/1lxivmv/nvidia_nim_free_deepseek_r10528_and_more/)
-[Akash](https://chatapi.akash.network) | Provider | Sign up | Free Tier | [DS V3.1, gpt-oss-120b, Qwen 3](https://chatapi.akash.network/documentation) | — | — | [Guide↓](#how-to-use-custom-apis) 
-[Nebulablock](https://www.nebulablock.com/) | Provider | Sign up | Free Tier | [DS and smaller models](https://console.nebulablock.com/serverless) | — | Credit card | [Guide↓](#how-to-use-custom-apis) 
+[Akash](https://chatapi.akash.network) | Provider | Sign up | Free Tier | [DS V3.1, gpt-oss-120b, Qwen 3 and smaller models](https://chatapi.akash.network/documentation) | — | — | [Guide↓](#how-to-use-custom-apis) 
+[Nebulablock](https://www.nebulablock.com/) | Provider | Sign up | Free Tier | [DS and smaller models](https://console.nebulablock.com/serverless) | 300 RPM & 150K TPM | Credit card | [Guide↓](#how-to-use-custom-apis) 
 [NavyAI](https://api.navy/) | Provider | Sign up | Free Tier | [Most RP models](https://api.navy/#models) | 25 RPM & 500K TPD | Sign in with Discord | [Guide↓](#how-to-use-custom-apis) 
 [LLM7](https://llm7.io/) | Provider | No sign up | Free Tier | [DS, GPT-5 and smaller models](https://api.llm7.io/v1/models) | 1 RPS & 45 RPM | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
-[ai.is-a.dev](https://ai.is-a.dev) | Provider | No sign up | Free Tier | [DS and LLama models](https://ai.is-a.dev/models) | — | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
+[ai.is-a.dev](https://ai.is-a.dev) | Provider | No sign up | Free Tier | [DS, GPT, GLM 4.5 and Llama models (other's don't work)](https://ai.is-a.dev/models) | — | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
 
 
 ## Cheap LLM APIs
