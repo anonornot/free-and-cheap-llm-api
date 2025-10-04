@@ -27,17 +27,17 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Cons | Guide
 [Openrouter](https://openrouter.ai/) | Gateway | One time deposit | Deposit 10$ once | [DS, Kimi K2, Qwen 3 and more](https://openrouter.ai/models?max_price=0) | 1000 RPD | Rate limit errors | [Guide↓](#how-to-use-custom-apis) 
 [LLMGateway](https://llmgateway.io/) | Gateway | One time deposit | Deposit 5$ once | [R1T2, Kimi K2, GLM 4.5, GPT-4.1](https://llmgateway.io/models) | 20 RPM | Some providers are in early development | [Guide↓](#how-to-use-custom-apis) 
 
-%#808080% *DS: Deepseek models (R1 0528, V3 0324 and V3.1)* %%
+*DS: Deepseek models (R1 0528, V3 0324 and V3.1)*
 
-%#808080% *GPT: Mostly GPT-5, 4o and mini models* %%
+*GPT: Mostly GPT-5, 4o and mini models* %%
 
-%#808080% *Claude: Sonnet 3.5/3.7/4/4.5 and Opus 4/4.1 models* %%
+*Claude: Sonnet 3.5/3.7/4/4.5 and Opus 4/4.1 models*
 
-%#808080% *Gemini: Gemini 2.0/2.5 Pro and Flash models* %%
+*Gemini: Gemini 2.0/2.5 Pro and Flash models*
 
-%#808080% *And more: LLama, Mistral and quantized open-source models* %%
+*And more: LLama, Mistral and quantized open-source models*
 
-%#808080% *?: "not sure"* %%
+*?: "not sure"*
 
 ___
 
@@ -57,8 +57,8 @@ ___
 
 Platform | Base URL | 
 :----: | :----: |
-| Sambanova  | `https://api.sambanova.ai/v1` | 
 | Parasail | `https://api.saas.parasail.io/v1` | 
+| Sambanova  | `https://api.sambanova.ai/v1` | 
 | Vercel  | `https://ai-gateway.vercel.sh/v1`  |
 | AtlasCloud  | `https://api.atlascloud.ai/api/v1`  |
 | Electronhub | `https://api.electronhub.ai/v1` |  
@@ -67,7 +67,9 @@ Platform | Base URL |
 | Akash | `https://chatapi.akash.network/api/v1` |
 | Nebulablock | `https://api.nebulablock.com/api/v1` | 
 | NavyAI | `https://api.navy/v1` |  
-| LLM7  | `https://api.llm7.io/v1` |
+| Cerebras  | `https://api.cerebras.ai/v1` | 
+| Airforce  | `https://api.airforce/v1` | 
+| LLM7  | `https://api.llm7.io/v1` | 
 | ai.is-a.dev  | `https://ai.is-a.dev` |
 | Chutes  | `https://api.chutes.ai/v1`  |
 | NanoGPT  | `https://nano-gpt.com/api/v1`  |
