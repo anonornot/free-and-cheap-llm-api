@@ -6,13 +6,13 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Requirement/
 [Parasail](https://www.parasail.io/) | Provider | Application | Free 10$ | [DS, Kimi K2, GLM 4.5](https://www.saas.parasail.io/pricing) | — | Billing info | [Guide↓](#how-to-use-custom-apis) 
 [Sambanova](https://sambanova.ai/) | Provider | Sign up | Free 5$ | [DS and more](https://docs.sambanova.ai/docs/en/models/sambacloud-models) | 60 RPD | Phone number | [Guide↓](#how-to-use-custom-apis)
 [Vercel](https://vercel.com) | Gateway | Sign up | Free 5$ | [Most RP models (except Opus)](https://vercel.com/ai-gateway/models) | — | Credit card | [Guide↓](#how-to-use-custom-apis) 
-[AtlasCloud](https://chatapi.akash.network) | Provider | Sign up | Free 0.1$ (daily) | [Most RP models](https://www.atlascloud.ai/models/list) | —  | — | [Guide↓](#how-to-use-custom-apis) 
-[Electronhub](https://www.electronhub.ai/) | Provider | Sign up | Free tier + Free 0.25$ (daily)| [DS, GPT, Kimi K2, Qwen 3 and more](https://api.navy/#models) | 7 RPM | — | [Guide↓](#how-to-use-custom-apis) 
+[AtlasCloud](https://www.atlascloud.ai) | Provider | Sign up | Free 0.1$ (daily) | [Most RP models](https://www.atlascloud.ai/models/list) | — | — | [Guide↓](#how-to-use-custom-apis) 
+[Electronhub](https://www.electronhub.ai/) | Gateway | Sign up | Free tier + Free 0.25$ (daily)| [DS, GPT, Kimi K2, Qwen 3 and more](https://playground.electronhub.ai/model) | 7 RPM | — | [Guide↓](#how-to-use-custom-apis) 
 [Groq](https://groq.com/) | Provider | Sign up | Free Tier | [Kimi K2 and more](https://console.groq.com/docs/rate-limits#rate-limits) | 10K TPM | Super low rate limits | [Guide↓](#how-to-use-custom-apis) 
 [NVIDIA NIM](https://build.nvidia.com/explore/discover) | Provider | Sign up | Free Tier | [DS, Kimi K2 and more](https://build.nvidia.com/search/models?q=chat+OR+text-to-text) | 40RPM (?) | Phone number | [Reddit](https://reddit.com/r/SillyTavernAI/comments/1lxivmv/nvidia_nim_free_deepseek_r10528_and_more/)
 [Akash](https://chatapi.akash.network) | Provider | Sign up | Free Tier | [DS V3.1, gpt-oss-120b, Qwen 3 and more](https://chatapi.akash.network/documentation) | — | — | [Guide↓](#how-to-use-custom-apis) 
 [Nebulablock](https://www.nebulablock.com/) | Provider | Sign up | Free Tier | [DS and more](https://console.nebulablock.com/serverless) | 300 RPM & 150K TPM | Credit card | [Guide↓](#how-to-use-custom-apis) 
-[NavyAI](https://api.navy/) | Provider | Sign up | Free Tier | [Most RP models](https://api.navy/#models) | 25 RPM & 500K TPD | Sign in with Discord | [Guide↓](#how-to-use-custom-apis) 
+[NavyAI](https://api.navy/) | Provider | Gateway | Free Tier | [Most RP models](https://api.navy/#models) | 25 RPM & 500K TPD | Sign in with Discord | [Guide↓](#how-to-use-custom-apis) 
 [Cerebras](https://www.cerebras.ai/) | Provider | Sign up | Free Tier | [Qwen 3 and more](https://inference-docs.cerebras.ai/api-reference/models) | 60K TPM & 1M TPD | — | [Guide↓](#how-to-use-custom-apis)
 [Airforce](https://panel.api.airforce/) | Gateway | Sign up | Free Tier | [Gemini, DS, Kimi K2, GLM 4.5, Qwen 3 and more](https://api.airforce/v1/models) | 1 RPM & 1000 RPD | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
 [LLM7](https://llm7.io/) | Provider | No sign up | Free Tier | [DS, GPT-5 and more](https://api.llm7.io/v1/models) | 1 RPS & 45 RPM | Quantized (?) | [Guide↓](#how-to-use-custom-apis)
@@ -22,10 +22,11 @@ Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Requirement/
 ## Cheap LLM APIs
 Platform | Platform Type | Deal Type | Cost | Models | Rate limit | Cons | Guide |
 :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | 
-[Chutes](https://chutes.ai/) | Provider | Subscription | 3$/month | DS models, Kimi K2, Qwen 3, GLM 4.5 | 300 RPD | — | [Guide↓](#how-to-use-custom-apis) 
+[Chutes](https://chutes.ai/) | Provider | Subscription | 3$/month | DS, Kimi K2, Qwen 3, GLM 4.5 | 300 RPD | — | [Guide↓](#how-to-use-custom-apis) 
 [NanoGPT](https://nano-gpt.com) | Gateway | Subscription | 8$/month | [DS, Kimi K2, Qwen 3](https://nano-gpt.com/subscription) | 2000 RPD | — | [Guide↓](#how-to-use-custom-apis) 
 [Openrouter](https://openrouter.ai/) | Gateway | One time deposit | Deposit 10$ once | [DS, Kimi K2, Qwen 3 and more](https://openrouter.ai/models?max_price=0) | 1000 RPD | Rate limit errors | [Guide↓](#how-to-use-custom-apis) 
 [LLMGateway](https://llmgateway.io/) | Gateway | One time deposit | Deposit 5$ once | [R1T2, Kimi K2, GLM 4.5, GPT-4.1](https://llmgateway.io/models) | 20 RPM | Some providers are in early development | [Guide↓](#how-to-use-custom-apis) 
+[Routeway](https://routeway.ai/) | Gateway | Doubled deposit | For 20$ and more (also prices are halved) | [Most RP models](https://routeway.ai/models) | — | Early development | [Guide↓](#how-to-use-custom-apis) 
 
 *DS: Deepseek models (R1 0528, V3 0324 and V3.1)*
 
